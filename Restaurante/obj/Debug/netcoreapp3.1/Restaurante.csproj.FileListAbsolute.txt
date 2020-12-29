@@ -1,0 +1,13 @@
+C:\Users\gerardo.aguilar\Source\Repos\GerardoAguilarGomez\Sesion6-EjercicioRestaurante\Restaurante\bin\Debug\netcoreapp3.1\Restaurante.exe
+C:\Users\gerardo.aguilar\Source\Repos\GerardoAguilarGomez\Sesion6-EjercicioRestaurante\Restaurante\bin\Debug\netcoreapp3.1\Restaurante.deps.json
+C:\Users\gerardo.aguilar\Source\Repos\GerardoAguilarGomez\Sesion6-EjercicioRestaurante\Restaurante\bin\Debug\netcoreapp3.1\Restaurante.runtimeconfig.json
+C:\Users\gerardo.aguilar\Source\Repos\GerardoAguilarGomez\Sesion6-EjercicioRestaurante\Restaurante\bin\Debug\netcoreapp3.1\Restaurante.runtimeconfig.dev.json
+C:\Users\gerardo.aguilar\Source\Repos\GerardoAguilarGomez\Sesion6-EjercicioRestaurante\Restaurante\bin\Debug\netcoreapp3.1\Restaurante.dll
+C:\Users\gerardo.aguilar\Source\Repos\GerardoAguilarGomez\Sesion6-EjercicioRestaurante\Restaurante\bin\Debug\netcoreapp3.1\Restaurante.pdb
+C:\Users\gerardo.aguilar\Source\Repos\GerardoAguilarGomez\Sesion6-EjercicioRestaurante\Restaurante\obj\Debug\netcoreapp3.1\Restaurante.csprojAssemblyReference.cache
+C:\Users\gerardo.aguilar\Source\Repos\GerardoAguilarGomez\Sesion6-EjercicioRestaurante\Restaurante\obj\Debug\netcoreapp3.1\Restaurante.AssemblyInfoInputs.cache
+C:\Users\gerardo.aguilar\Source\Repos\GerardoAguilarGomez\Sesion6-EjercicioRestaurante\Restaurante\obj\Debug\netcoreapp3.1\Restaurante.AssemblyInfo.cs
+C:\Users\gerardo.aguilar\Source\Repos\GerardoAguilarGomez\Sesion6-EjercicioRestaurante\Restaurante\obj\Debug\netcoreapp3.1\Restaurante.csproj.CoreCompileInputs.cache
+C:\Users\gerardo.aguilar\Source\Repos\GerardoAguilarGomez\Sesion6-EjercicioRestaurante\Restaurante\obj\Debug\netcoreapp3.1\Restaurante.dll
+C:\Users\gerardo.aguilar\Source\Repos\GerardoAguilarGomez\Sesion6-EjercicioRestaurante\Restaurante\obj\Debug\netcoreapp3.1\Restaurante.pdb
+C:\Users\gerardo.aguilar\Source\Repos\GerardoAguilarGomez\Sesion6-EjercicioRestaurante\Restaurante\obj\Debug\netcoreapp3.1\Restaurante.genruntimeconfig.cache
