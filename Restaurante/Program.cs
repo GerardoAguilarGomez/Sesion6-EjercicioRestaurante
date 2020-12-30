@@ -6,7 +6,7 @@ namespace Sesion6_EjercicioRestaurante
     {
         static void Main(string[] args)
         {
-            milestone2 menu = new milestone2();
+            milestone3 menu = new milestone3();
             menu.CargarMenu();
         }
     }
